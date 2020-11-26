@@ -1,4 +1,3 @@
-# multilingual_dtm
-Implementation of the Multilingual Dynamic Topic Model as presented in 
-"Zosa, E., & Granroth-Wilding, M. (2019). Multilingual Dynamic Topic Model. In Proceedings Recent Advances in Natural Language Processing 2019" https://researchportal.helsinki.fi/en/publications/multilingual-dynamic-topic-model
-
+# Multilingual Dynamic Topic Model
+Implementation of the Multilingual Dynamic Topic Model as presented in our paper:
+Zosa, Elaine, and Mark Granroth-Wilding. "Multilingual dynamic topic model." Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2019). 2019.
